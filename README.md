@@ -14,5 +14,9 @@ Current Goals:
 * CodeWars: 1 Kyu (Proficient)
 
 
+![CodeWars](https://www.codewars.com/users/chhoumann/badges/small)
+
+
+
 Future plans:
 * Algorithms review / implementation
