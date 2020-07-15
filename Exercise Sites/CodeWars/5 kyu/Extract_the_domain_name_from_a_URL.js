@@ -1,0 +1,1 @@
+const domainName = url => { return url.replace(/.+\/\/|www.|\..+/g, '') }
